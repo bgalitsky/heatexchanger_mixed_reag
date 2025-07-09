@@ -1,2 +1,2 @@
 # heatexchanger_mixed_reag
-This is math models of two-stream heat exchange in cases where one or both contacting flows are mixtures of several components that change their phase state at different temperatures. 
+considers mathematical models of two-stream heat exchange in cases where one or both contacting flows are mixtures of several components that change their phase state at different temperatures. Formulas and algorithms are obtained for calculating the heat transfer coefficient of the heat exchanger and the entropy production, which determines the irreversibility of the process, under various constraints on flow temperatures and heat load.
